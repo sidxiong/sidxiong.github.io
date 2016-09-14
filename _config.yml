@@ -13,5 +13,12 @@ rdiscount:
 gems:
   - jekyll-sitemap
 
-description: Sid Xiong's personal page
+analytics :
+    provider : google 
+    google : 
+        tracking_id : 'UA-62997912-1'
+
+description: Sid Xiong personal page
 weibo: xsyd
+
+
