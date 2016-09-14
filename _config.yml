@@ -1,0 +1,17 @@
+name: Siyadong Xiong
+url: http://sidxiong.github.io
+markdown: kramdown
+kramdown:
+    parse_block_html: true
+
+highlighter: pygments
+
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+description: Sid Xiong's personal page
+weibo: xsyd
