@@ -16,7 +16,7 @@ gems:
 analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-62997912-1'
+        tracking_id : 'UA-88884216-1'
 
 description: Sid Xiong personal page
 weibo: xsyd
