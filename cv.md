@@ -16,10 +16,10 @@ B.S. in Electronics Engineering
 # Employments
 
 ### Didi Chuxing
-Worked on dynamic price team.
+Worked on dynamic price team as a software engineer intern.
 
 ### Alibaba Group
-Worked on Ad backend team.
+Worked on Ad backend team as a software engineer intern.
 
 # Projects
 
