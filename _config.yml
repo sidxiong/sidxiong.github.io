@@ -1,12 +1,15 @@
 name: Siyadong Xiong
-url: http://sidxiong.github.io
+url: http://siyadong.me
+
 markdown: kramdown
+
 kramdown:
     parse_block_html: true
 
 highlighter: rouge
 
-permalink: /posts/:title
+permalink: /content/:year/:title
+
 rdiscount:
   extensions: [smart]
 
@@ -21,4 +24,4 @@ analytics :
 description: Sid Xiong personal page
 weibo: xsyd
 
-
+excerpt_separator: <!--more-->
