@@ -16,9 +16,6 @@ title:  Siyadong Xiong
 ## Updates
 
 * **12/2016**
-I begin to conduct a research project on NLP+CV deep learning during this winter break.
-
-* **12/2016**
 Our team ranked the 1st place in the [Kaggle competition](https://inclass.kaggle.com/c/cornell-cs5785-2016-fall-final/leaderboard) for Cornell CS5785-Machine Learning final!
 Check our paper at my [GitHub](https://github.com/sidxiong/CS5785-HW).
 
