@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: CV
+title: Project
 ---
 
 <section class="content">
