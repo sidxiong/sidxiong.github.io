@@ -11,7 +11,9 @@ title:  Siyadong Xiong
 
 # Siyadong Xiong
 
-### A programmer, making stuff on backend systems and machine learning. And a new New Yorker ;-)
+### A programmer, making stuff on backend systems and machine learning.   
+
+### A new New Yorker ;-)
 
 ## Updates
 
