@@ -13,13 +13,13 @@ title:  Siyadong Xiong
 
 ### A programmer, making stuff on backend systems and machine learning.   
 
-### A new New Yorker ;-)
+### ~~A new New Yorker ;-)~~
+### Oh, I finally moved to the Bay Area :(
 
 ## Updates
 
-* **12/2016**
-Begin to conduct a research project at Cornell NLP group. 
-Learning how to properly have tensor flowing. :)
+* **07/2017**
+Start work at A9's Ad Tech group.
 
 * **12/2016**
 Our team ranked the 1st place in the [Kaggle competition](https://inclass.kaggle.com/c/cornell-cs5785-2016-fall-final/leaderboard) for Cornell CS5785-Machine Learning final!
@@ -37,6 +37,8 @@ I completed my internship at Didi Research's dynamic price team.
 
 ## About
 
-I am currently a master in CS student at Cornell and Cornell Tech. Before attending Cornell, I got my B.S. in EE at Peking University, China. I am solid in Computer Science basics and interned at Alibaba Group and Didi Chuxing when I was in China.
+I love data related challenges including data infrastructure and data science. I enjoy utilizing computer system and machine learning techniques to solve these technical challenges in the real world. I had two software engineer internships respectively at Alibaba and Didi Chuxing.
+
+I will get my Master in Computer Science degree from Cornell in 05/2017. Before that, my academic background was from Peking University in China. 
 
 </section>
