@@ -18,9 +18,6 @@ title:  Siyadong Xiong
 
 ## Updates
 
-* **07/2017**
-Start work at A9's Ad Tech group.
-
 * **12/2016**
 Our team ranked the 1st place in the [Kaggle competition](https://inclass.kaggle.com/c/cornell-cs5785-2016-fall-final/leaderboard) for Cornell CS5785-Machine Learning final!
 Check our report (which was poorly written in two hours..) at my [GitHub](https://github.com/sidxiong/CS5785-HW).

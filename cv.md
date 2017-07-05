@@ -11,7 +11,7 @@ title: CV
 M.Eng. in Computer Science
 
 ### Peking University
-M.S. in Electronics Engineering
+M.S. in Electronics Engineering (on leave)
 
 ### Peking University
 B.S. in Electronics Engineering
@@ -19,10 +19,10 @@ B.S. in Electronics Engineering
 # Employments
 
 ### Didi Chuxing
-Worked on dynamic price team as a software engineer intern.
+Worked on dynamic price team. (intern)
 
 ### Alibaba
-Worked on Ad backend team as a software engineer intern.
+Worked on Ad backend team. (intern)
 
 # Projects
 
