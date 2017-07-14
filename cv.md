@@ -11,12 +11,12 @@ title: CV
 M.Eng. in Computer Science
 
 ### Peking University
-M.S. in Electronics Engineering (on leave)
-
-### Peking University
-B.S. in Electronics Engineering
+B.S. & M.S. in Electronics Engineering
 
 # Employments
+
+### A9
+Worked on Ad Tech team.
 
 ### Didi Chuxing
 Worked on dynamic price team. (intern)
