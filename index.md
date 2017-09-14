@@ -11,16 +11,16 @@ title:  Siyadong Xiong
 
 # Siyadong Xiong
 
-### A programmer, making stuff on backend systems and machine learning.   
+### A software engineer, making stuff on data platform and machine learning.   
 
 ### ~~A new New Yorker ;-)~~
 
-### Oh, I finally moved to the Bay Area :(
+### Oops, I finally moved to the Bay Area.
 
 ## Updates
 
 * **07/2017**
-I started work at A9 Ad Tech team at Palo Alto.
+I started working on Advertising Tech team of A9, an Amazon company in Palo Alto.
 
 
 * **12/2016**
@@ -39,7 +39,7 @@ I completed my internship at Didi Research's dynamic price team.
 
 ## About
 
-My interest and experience focus on DATA, from raw to structured, from analytics to insights and inference. I like working on data infra, pipeline and statistical data science, and utilize them to solve practical problems in advertising, search, etc.
+My interest and experience focus on data, from raw to structured, from analytics to insights and inference. I like working on data infra, pipeline and statistical data science, and utilize them to solve practical problems in advertising, search, etc.
 
 I got my Master in Computer Science from Cornell in 05/2017. Prior to that, my academic background was from Peking University in China. I also interned at Alibaba and Didi Chuxing before I came to the United States.
 
