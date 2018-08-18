@@ -11,13 +11,13 @@ title:  Siyadong Xiong
 
 # Siyadong Xiong
 
-### A software engineer, making stuff on data platform and machine learning.   
+### I'm a software engineer working on data analytics systems for A9/Amazon Advertising.   
 
-### ~~A new New Yorker ;-)~~
-
-### Oops, I finally moved to the Bay Area.
+### Our team is hiring in sunny Palo Alto.
 
 ## Updates
+* **08/2018**
+I am working on data infra and products for Amazon Publisher Services and we are hiring in sunny Palo Alto!
 
 * **07/2017**
 I started working on Advertising Tech team of A9, an Amazon company in Palo Alto.
